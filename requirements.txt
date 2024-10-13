@@ -1,3 +1,4 @@
 urlextract
 wordcloud
 emoji
+seaborn
